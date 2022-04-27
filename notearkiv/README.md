@@ -41,3 +41,5 @@ Når filene er lastet opp skal man knytte dette til hver enkelt stemme. Da er de
 ## **VIKTIG**: Lagre
 
 Når du er ferdig med alle filene, så må du trykke på **Last opp notefiler**. Det er dette som lagrer arbeidet du har gjort. Glemmer du dette, så må du gjøre det på nytt.
+
+![Skjermdump fra https://drift.styreportalen.no](images/07-avslutte-VIKTIG.png)
